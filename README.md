@@ -2,7 +2,6 @@
 
 The video in this repo is outdated.
 
-Please visit the below YouTube link for a new, narrated demo video!
-https://youtu.be/WYhN96dAqoM
+Please visit the YouTube link for a new, narrated demo video: https://youtu.be/WYhN96dAqoM
 
 (The new video is too large to upload to GitHub)
